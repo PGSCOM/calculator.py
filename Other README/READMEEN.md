@@ -1,5 +1,5 @@
 <p align="center">
- <p>English</p>
+ English
  <a href="https://github.com/PGSCOM/calculator.py/">Español</a>
  <h2 align="center">calculator.py</h2>
 </p>
