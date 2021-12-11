@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/PGSCOM/calculator.py/blob/main/Other%20README/READMEEN.md">English</a>
- Español
+  | Español
  <h2 align="center">calculator.py</h2>
 </p>
 
